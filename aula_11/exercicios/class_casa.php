@@ -77,4 +77,6 @@ class Casa {
 }
 
 $minha_casa = new Casa("Branco", "Lusinia 58", "2 portas", true);
-var_dump($minha_casa->getJanela());
+$minha_casa = new Casa("Branco", "Lusinia 58", "2 portas", true);
+$minha_casa = new Casa("Branco", "Lusinia 58", "2 portas", true);
+var_dump($minha_casa);
